@@ -1,5 +1,5 @@
 # image_processing_project
 
-# members names
-شيماء محمود محمد على # 
- # فاطمة عبد المنعم محمد
+members names
+shimaa mahmoud mohamed ali
+fatma abdelmoniem mohamed
